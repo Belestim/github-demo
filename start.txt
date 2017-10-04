@@ -1,7 +1,4 @@
 test git start demo
 updated soon
-hi
-new hi
-checking
-again
+
 
