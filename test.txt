@@ -2,9 +2,9 @@ jsut for test
 
 branching test
 
-<<<<<<< HEAD
+
 feature1 branch test
 
-=======
+
 new test
->>>>>>> 0a0f92fb47f566f800b6b18213dd50b10419a1c3
+
